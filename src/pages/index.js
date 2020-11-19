@@ -32,7 +32,7 @@ export default function Home() {
     <Layout>
       <HomeStyles>
         <h1>Kyrgyz.Travel</h1>
-        <ButtonsWrapper>
+        {/* <ButtonsWrapper>
           <button>
             <Link className="link" to="/companies">
               Tourist Companies
@@ -43,7 +43,8 @@ export default function Home() {
               Hotels
             </Link>
           </button>
-        </ButtonsWrapper>
+        </ButtonsWrapper> */}
+        <h2>Coming soon...</h2>
       </HomeStyles>
     </Layout>
   )

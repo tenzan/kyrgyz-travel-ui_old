@@ -28,13 +28,13 @@ export default function Navbar() {
           </Link>
         </li>
         <li>
-          <Link className="link" to="/customers">
-            Customers
-          </Link>
+          {/* <Link className="link" to="/customers">
+            How to get listed
+          </Link> */}
         </li>
         <li>
           <Link className="link" to="/contact">
-            Contact
+            Contact us
           </Link>
         </li>
       </ul>
